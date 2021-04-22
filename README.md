@@ -19,4 +19,5 @@ We created a series of if statements to add characters from the character pool v
 We created a for loop that generates a random number between 0 and total length of total character pool, x the total user selected character amount, rounded down. We pulled values from our characterSelection array utilizing the result from our RNG. We utilized our final variable "generatedPassword" to store the values.
 
 Made in collaboration with Tom Siemion.
-![screenshot](./assets/Hw3-Screenshot.PNG)
+
+![screenshot](./Assets/Hw3-Screenshot.PNG)
