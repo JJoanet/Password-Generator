@@ -12,12 +12,7 @@ This application is a password generator! Upon initialization it prompts the use
 
 ## Table of Contents
 - [Usage](#Usage)
-- [Installation](#Dependancies)
-- [Testing](#Testing)
 - [Credits](#Credits)
-- [License](#License)
-- [Contributing](#Contributing)
-- [License Information](#LicenseInfo)
 - [Screenshot](#Screenshot)
 
 ## Usage
